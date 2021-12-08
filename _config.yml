@@ -1,0 +1,11 @@
+# basic options
+title: your awesome title
+author: GitHub User
+email: sharingsite@mail
+description: Community sharing site for ways to learn Earn, Play Earn,Crypto updated and Airdrops
+twitter_username: @sharingsite
+github_username: @mochekwa
+
+# build settings
+markdow:
+theme:
