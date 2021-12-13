@@ -1,2 +1,3 @@
 # Sharing Site
-[Home](index.md) | About | Play Earn | Learn Earn
+[
+Home](readme.md) | [About](about.md) | Play Earn | Learn Earn
