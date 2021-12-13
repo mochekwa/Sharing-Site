@@ -1,2 +1,2 @@
 # Sharing Site
-Home
+Home | About | Airdrop | Play Earn | Learn Earn 
