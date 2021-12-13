@@ -1,3 +1,3 @@
 # Sharing Site
 
-### Home | About | Airdrop | Play Earn | learn Earn
+### Home | About us | Airdrop | Play Earn | learn Earn
