@@ -1,1 +1,1 @@
-[Home]() [About]() [Airdrop]() [Market]() [PlayEarn]() [LearnEarn]()     
+[Home]() | [About]() | [Airdrop]() | [Market]() | [PlayEarn]() | [LearnEarn]()     
